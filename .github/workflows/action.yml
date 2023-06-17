@@ -18,7 +18,7 @@ jobs:
           token: NOT_NEEDED
 
           # Options
-          user: ravana69
+          user: Ishwaranrudhara
           template: classic
           base: metadata
           config_timezone: Asia/Kolkata
